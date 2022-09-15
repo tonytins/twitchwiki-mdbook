@@ -84,4 +84,5 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - [TikTok](https://www.tiktok.com/@whiskeyding0)
 
 [^1]: [Twitch Partner Announcement](https://twitter.com/Whiskey_Dingo/status/1174473493217513473)
+
 [^2]: [Night in the Woods Stream Announcement](https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761)
