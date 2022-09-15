@@ -1,0 +1,6 @@
+[book]
+authors = ["Tony Bark", "Stefen Auris"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Twitch Wiki"

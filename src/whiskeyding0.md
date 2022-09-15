@@ -1,18 +1,17 @@
----
-title: "WHISKEY DINGO"
-permalink: whiskeyding0/
----
-
 # [Whiskey Dingo](https://www.tiktok.com/@whiskeyding0)
+
 Whiskey is notable for his high energy, loud exclaimations, and frequent interaction with chat.
+
 - Timezone: Central Time (UTC-6)
 
 ## History
+
 - began streaming around 2018
 - Became a Twitch Partner on 2019/9/18[^1]
   - Played Night in the Woods for his first partner stream[^2]
 
 ## In-Jokes
+
 - Whiskey uses extensive emotes from these sources, several of which are in-jokes for the stream.
 - Whiskey often tells views the rules of the stream, things he encourages chat not to do but they inevitably disobey. the rules are:
   1. Don't use the "V word" in chat! (vore)
@@ -23,14 +22,17 @@ Whiskey is notable for his high energy, loud exclaimations, and frequent interac
   - Every stream whiskey will mess up on switching scenes to just chatting and instead plays the ALL HAIL sequence.
 
 ## Notable Games & Preferred Genres
+
 Loves to play horror games
 - Jackbox Series
 - Five Nights at Freddies
 
 ## Misc.
+
 - Whiskey often suffers from hiccups and has to hold his breath to help clear them.
 
 ## Redeems
+
 Whiskey's channel makes heavy use of channel points (called cheddar) and redeems. His 3D model responds to many of his redeems including:
 - Throw bananas at Whiskey (100pts)
 - annoy whiskey with confetti (100pts)
@@ -40,9 +42,11 @@ Whiskey's channel makes heavy use of channel points (called cheddar) and redeems
 Chat is often encouraged to "gamba" their cheddar on predictions, often betting if Whiskey will pass/fail at a level of the game he's currently playing. 
 
 ## Notable Stream Events
+
 - 2022/9/15 Hosting Family Feud Stream
 
 ## Mods
+
 - Cyrcle
 - Max9183
 - Mithswaw
@@ -52,6 +56,7 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - Vnibbles
 
 ## PC Specs
+
 - Operating System: Windows 10 Home; 64-Bit
 
 - Processor & Memory: Intel Core i7-8700K 6-Core Processor (3.7GHz) with Max Turbo Frequency up to 4.3GHz; 16GB Memory
@@ -71,6 +76,7 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - I/O Ports: HDMI; 6 USB 3.1 Ports; 4 USB 2.0 Ports; 1 PS/2; LAN Port; DisplayPort; DVI; 6 Audio Jacks
 
 ## External Links
+
 - [Discord](https://discord.com/invite/dingoden)
 - [Throne Wishlist](https://throne.me/u/whiskeyding0)
 - [Twitter](https://twitter.com/Whiskey_Dingo)
