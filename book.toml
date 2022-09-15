@@ -4,3 +4,13 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Twitch Wiki"
+
+[build]
+create-missing = false
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/sc-idevops/twitchwiki"
+
+[output.html.fold]
+enable = true
