@@ -1,4 +1,4 @@
-# [CurlyKody](https://www.twitch.tv/curlykody)
+# [Curly Kody](https://www.twitch.tv/curlykody)
 
 <p>
 <img align="right" style="padding:10px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/9feaa6a3-3c62-49b3-ba01-e6623bc6bb98-profile_image-70x70.png">

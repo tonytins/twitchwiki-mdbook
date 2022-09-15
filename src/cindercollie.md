@@ -1,4 +1,4 @@
-# [CinderCollie](https://www.twitch.tv/cindercollie)
+# [Cinder Collie](https://www.twitch.tv/cindercollie)
 
 <p>
 <img align="right" style="padding:10px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f33f7779-f911-4822-b65c-ff9fc67189a6-profile_image-70x70.png">

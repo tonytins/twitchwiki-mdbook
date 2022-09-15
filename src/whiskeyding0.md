@@ -1,12 +1,16 @@
 # [Whiskey Dingo](https://www.tiktok.com/@whiskeyding0)
 
+<p>
+<img align="right" style="padding:10px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/0fc32370-996d-429c-b7a3-69b9fb15ebb2-profile_image-70x70.png">
+</p>
+
 Whiskey is notable for his high energy, loud exclaimations, and frequent interaction with chat.
 
 - Timezone: Central Time (UTC-6)
 
 ## History
 
-- began streaming around 2018
+- Began streaming around 2018
 - Became a Twitch Partner on 2019/9/18[^1]
   - Played Night in the Woods for his first partner stream[^2]
 
@@ -23,7 +27,8 @@ Whiskey is notable for his high energy, loud exclaimations, and frequent interac
 
 ## Notable Games & Preferred Genres
 
-Loves to play horror games
+Loves to play horror and party games.
+
 - Jackbox Series
 - Five Nights at Freddies
 
@@ -34,11 +39,13 @@ Loves to play horror games
 ## Redeems
 
 Whiskey's channel makes heavy use of channel points (called cheddar) and redeems. His 3D model responds to many of his redeems including:
+
 - Throw bananas at Whiskey (100pts)
 - annoy whiskey with confetti (100pts)
 - Tornado, which whiskey runs away from before getting sucked into it, spun around, and thrown violently against the screen (1000pts)
 - "SOAP" this redeem will challenge whiskey to go for 5 minutes without uttering a curse word. If he fails the soap challenge, he has to gift a tier 1 gift subscription to a random viewer of the channel.
 - "Display Profile Picture"(1,000,000pts) should a chat member earn enough points to redeem this, they will have their profile picture featured on whiskey's just chatting scene for all to see!
+
 Chat is often encouraged to "gamba" their cheddar on predictions, often betting if Whiskey will pass/fail at a level of the game he's currently playing. 
 
 ## Notable Stream Events
@@ -82,6 +89,8 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - [Twitter](https://twitter.com/Whiskey_Dingo)
 - [Donation Link](https://streamlabs.com/whiskeyding0/tip)
 - [TikTok](https://www.tiktok.com/@whiskeyding0)
+
+## References
 
 [^1]: [Twitch Partner Announcement](https://twitter.com/Whiskey_Dingo/status/1174473493217513473)
 
